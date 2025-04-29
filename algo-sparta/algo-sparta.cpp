@@ -1,11 +1,11 @@
 ﻿#include <iostream>
 using namespace std;
 
-void boj_2480();
+void boj_2309();
 
 int main()
 {	
-	boj_2480();
+	boj_2309();
 
 	return 0;
 }

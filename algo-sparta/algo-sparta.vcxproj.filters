@@ -12,13 +12,25 @@
     <Filter Include="소스 파일\Array">
       <UniqueIdentifier>{260b2ad5-c90b-48f5-b98f-6eadba27e7db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Basic">
+      <UniqueIdentifier>{4c10816b-8481-4101-90f8-b20628a041d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="algo-sparta.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="boj-2480.cpp">
-      <Filter>소스 파일\Array</Filter>
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="boj-2490.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="boj-2490-v1.cpp">
+      <Filter>소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="boj-2309.cpp">
+      <Filter>소스 파일\Basic</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

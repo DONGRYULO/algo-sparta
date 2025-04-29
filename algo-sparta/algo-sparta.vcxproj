@@ -128,7 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="algo-sparta.cpp" />
+    <ClCompile Include="boj-2309.cpp" />
     <ClCompile Include="boj-2480.cpp" />
+    <ClCompile Include="boj-2490-v1.cpp" />
+    <ClCompile Include="boj-2490.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
